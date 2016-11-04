@@ -1,11 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class Direction : MonoBehaviour {
 	
 	public int SpeedRotation = 50;
 	public int Force = 0;
 	public TextMesh TxtForce;
+	public Text TxtShot;
+	public int Shots = 0;
+
 
 	// Use this for initialization
 	void Start () {
@@ -31,6 +35,8 @@ public class Direction : MonoBehaviour {
 			transform.Rotate (Vector3.up * Input.GetAxis ("Mouse X") * Time.deltaTime * SpeedRotation);
 			if (Input.GetButtonDown ("Fire1")) {
 				GameObject.Find ("Ball").GetComponent<Rigidbody> ().AddForce (transform.TransformDirection (Vector3.forward*Force));
+				Shots += 1;
+				TxtShot.text = "Shot : " + Shots;
 			}
 			if (Input.GetButton ("Fire2")) 
 			{
@@ -57,4 +63,12 @@ public class Direction : MonoBehaviour {
 			TxtForce.GetComponent<MeshRenderer> ().enabled = false;
 		}
 	}
+
+	public void Perdu(){
+		Shots = 0;
+		TxtShot.text = "Shot : " + Shots;
+		
+	}
+
+
 }
