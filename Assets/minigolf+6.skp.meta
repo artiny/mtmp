@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 951be15918ee8ac4db6b263f71157024
+timeCreated: 1478338820
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000c0000000d0000000e0000000f0000001800000019000000220000002300000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d000000
+  assetHash:
+    serializedVersion: 2
+    Hash: da2f9607ef7201c62d06f97e20c01001
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 13.250911, y: 4.348068, z: -8.316126}
+      lookAt: {x: -6.2317595, y: -3.923357, z: -2.631929}
+      up: {x: -0.36231336, y: 0.9260427, z: 0.1057073}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 1 0
+    100002: 1#1
+    100004: 2#1
+    100006: 3#1
+    100008: 5
+    100010: 6
+    100012: 7
+    100014: 8
+    100016: 9
+    100018: box
+    100020: box 1
+    100022: box 2
+    100024: box 3
+    100026: box 4
+    100028: box 5
+    100030: box 6
+    100032: Component#44
+    100034: Component#44 1
+    100036: Component#44 2
+    100038: Component#44 3
+    100040: Component#44 4
+    100042: Component#45
+    100044: Component#46
+    100046: Component#47
+    100048: Component#48
+    100050: floor
+    100052: Group 40
+    100054: Group 47
+    100056: Group 52
+    100058: Group 57
+    100060: Group 62
+    100062: Group 67
+    100064: //RootNode
+    100066: staticmesh
+    100068: staticmesh 1
+    100070: staticmesh 10
+    100072: staticmesh 2
+    100074: staticmesh 3
+    100076: staticmesh 4
+    100078: staticmesh 5
+    100080: staticmesh 6
+    100082: staticmesh 7
+    100084: staticmesh 8
+    100086: staticmesh 9
+    400000: 1 0
+    400002: 1#1
+    400004: 2#1
+    400006: 3#1
+    400008: 5
+    400010: 6
+    400012: 7
+    400014: 8
+    400016: 9
+    400018: box
+    400020: box 1
+    400022: box 2
+    400024: box 3
+    400026: box 4
+    400028: box 5
+    400030: box 6
+    400032: Component#44
+    400034: Component#44 1
+    400036: Component#44 2
+    400038: Component#44 3
+    400040: Component#44 4
+    400042: Component#45
+    400044: Component#46
+    400046: Component#47
+    400048: Component#48
+    400050: floor
+    400052: Group 40
+    400054: Group 47
+    400056: Group 52
+    400058: Group 57
+    400060: Group 62
+    400062: Group 67
+    400064: //RootNode
+    400066: staticmesh
+    400068: staticmesh 1
+    400070: staticmesh 10
+    400072: staticmesh 2
+    400074: staticmesh 3
+    400076: staticmesh 4
+    400078: staticmesh 5
+    400080: staticmesh 6
+    400082: staticmesh 7
+    400084: staticmesh 8
+    400086: staticmesh 9
+    2300000: 1 0
+    2300002: 1#1
+    2300004: 2#1
+    2300006: 3#1
+    2300008: 5
+    2300010: 6
+    2300012: 7
+    2300014: 8
+    2300016: 9
+    2300018: box
+    2300020: box 1
+    2300022: box 2
+    2300024: box 3
+    2300026: box 4
+    2300028: box 5
+    2300030: box 6
+    2300032: Component#44
+    2300034: Component#44 1
+    2300036: Component#44 2
+    2300038: Component#44 3
+    2300040: Component#44 4
+    2300042: Component#45
+    2300044: Component#46
+    2300046: Component#47
+    2300048: Component#48
+    2300050: floor
+    2300052: //RootNode
+    2300054: staticmesh
+    2300056: staticmesh 1
+    2300058: staticmesh 10
+    2300060: staticmesh 2
+    2300062: staticmesh 3
+    2300064: staticmesh 4
+    2300066: staticmesh 5
+    2300068: staticmesh 6
+    2300070: staticmesh 7
+    2300072: staticmesh 8
+    2300074: staticmesh 9
+    3300000: 1 0
+    3300002: 1#1
+    3300004: 2#1
+    3300006: 3#1
+    3300008: 5
+    3300010: 6
+    3300012: 7
+    3300014: 8
+    3300016: 9
+    3300018: box
+    3300020: box 1
+    3300022: box 2
+    3300024: box 3
+    3300026: box 4
+    3300028: box 5
+    3300030: box 6
+    3300032: Component#44
+    3300034: Component#44 1
+    3300036: Component#44 2
+    3300038: Component#44 3
+    3300040: Component#44 4
+    3300042: Component#45
+    3300044: Component#46
+    3300046: Component#47
+    3300048: Component#48
+    3300050: floor
+    3300052: //RootNode
+    3300054: staticmesh
+    3300056: staticmesh 1
+    3300058: staticmesh 10
+    3300060: staticmesh 2
+    3300062: staticmesh 3
+    3300064: staticmesh 4
+    3300066: staticmesh 5
+    3300068: staticmesh 6
+    3300070: staticmesh 7
+    3300072: staticmesh 8
+    3300074: staticmesh 9
+    4300000: Mesh minigolf+6
+    4300002: Mesh box
+    4300004: Mesh box
+    4300006: Mesh staticmesh
+    4300008: Mesh box
+    4300010: Mesh box
+    4300012: Mesh box
+    4300014: Mesh Component#44
+    4300016: Mesh 6
+    4300018: Mesh 7
+    4300020: Mesh 8
+    4300022: Mesh 9
+    4300024: Mesh 1 0
+    4300026: Mesh staticmesh
+    4300028: Mesh staticmesh
+    4300030: Mesh staticmesh
+    4300032: Mesh Component#45
+    4300034: Mesh staticmesh
+    4300036: Mesh Component#46
+    4300038: Mesh staticmesh
+    4300040: Mesh Component#48
+    4300042: Mesh 5
+    4300044: Mesh 1#1
+    4300046: Mesh 2#1
+    4300048: Mesh 3#1
+    4300050: Mesh staticmesh
+    4300052: Mesh staticmesh
+    4300054: Mesh Component#47
+    4300056: Mesh staticmesh
+    4300058: Mesh staticmesh
+    4300060: Mesh floor
+    4300062: Mesh staticmesh
+    6400000: 1 0
+    6400002: 1#1
+    6400004: 2#1
+    6400006: 3#1
+    6400008: 5
+    6400010: 6
+    6400012: 7
+    6400014: 8
+    6400016: 9
+    6400018: box
+    6400020: box 1
+    6400022: box 2
+    6400024: box 3
+    6400026: box 4
+    6400028: box 5
+    6400030: box 6
+    6400032: Component#44
+    6400034: Component#44 1
+    6400036: Component#44 2
+    6400038: Component#44 3
+    6400040: Component#44 4
+    6400042: Component#45
+    6400044: Component#46
+    6400046: Component#47
+    6400048: Component#48
+    6400050: floor
+    6400052: //RootNode
+    6400054: staticmesh
+    6400056: staticmesh 1
+    6400058: staticmesh 10
+    6400060: staticmesh 2
+    6400062: staticmesh 3
+    6400064: staticmesh 4
+    6400066: staticmesh 5
+    6400068: staticmesh 6
+    6400070: staticmesh 7
+    6400072: staticmesh 8
+    6400074: staticmesh 9
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

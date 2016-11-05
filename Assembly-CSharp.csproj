@@ -48,6 +48,7 @@
      <Compile Include="Assets\script\Ball.cs" />
      <Compile Include="Assets\script\ControllerBall.cs" />
      <Compile Include="Assets\script\Direction.cs" />
+     <Compile Include="Assets\script\mouseDrag.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

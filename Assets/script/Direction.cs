@@ -9,7 +9,7 @@ public class Direction : MonoBehaviour {
 	public TextMesh TxtForce;
 	public Text TxtShot;
 	public int Shots = 0;
-
+	float distance = 10;
 
 	// Use this for initialization
 	void Start () {
@@ -24,6 +24,7 @@ public class Direction : MonoBehaviour {
 		if (Input.GetKeyDown (KeyCode.Escape)) {
 			Cursor.lockState = CursorLockMode.None;
 			Cursor.visible = true;
+
 		}
 		
 		transform.position = GameObject.Find ("Ball").GetComponent<Transform>().position;
@@ -54,6 +55,13 @@ public class Direction : MonoBehaviour {
 				Force = 0;
 				TxtForce.text = "" + Force/50 + "%";
 			}
+
+			if( Input.GetKeyUp( KeyCode.Space ) ){
+				Debug.Log( "Space key was released." );
+				Vector3 mousePosition = new Vector3 (Input.mousePosition.x, Input.mousePosition.y, distance);
+				Vector3 objPosition = Camera.main.ScreenToWorldPoint (mousePosition);
+				transform.position = objPosition;
+		}
 
 
 		}
